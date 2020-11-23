@@ -1,5 +1,5 @@
-#ifndef planc_H
-#define planc_H
+#ifndef lanc_H
+#define lanc_H
 
 #include "quantum.h"
 

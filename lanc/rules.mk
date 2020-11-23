@@ -32,7 +32,7 @@ TAP_DANCE_ENABLE = yes
 
 
   ifeq ($(strip $(IOS_DEVICE_ENABLE )), yes)
-    OPT_DEFS += -DIOS_DEVICE_ENABLE 
+    OPT_DEFS += -DIOS_DEVICE_ENABLE
   endif
 
 # Do not enable SLEEP_LED_ENABLE. it uses the same timer as BACKLIGHT_ENABLE

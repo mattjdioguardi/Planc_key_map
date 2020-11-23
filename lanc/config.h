@@ -23,8 +23,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define VENDOR_ID       0xFEED
 #define PRODUCT_ID      0x0000
 #define DEVICE_VER      0x0001
-#define MANUFACTURER    GoTakigawa
-#define PRODUCT         NEWGAME40
+#define MANUFACTURER    Matthew Dioguardi
+#define PRODUCT         Lanc
 #define DESCRIPTION     4x10key keyboard
 
 /* key matrix size */
@@ -72,5 +72,5 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define DIODE_DIRECTION COL2ROW
 
 #define TAPPING_TERM 200
-#define ONESHOT_TAP_TOGGLE 5  
-#define ONESHOT_TIMEOUT 5000  
+#define ONESHOT_TAP_TOGGLE 5
+#define ONESHOT_TIMEOUT 5000
